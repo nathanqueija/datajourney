@@ -7,3 +7,7 @@ In this folder, you'll find my exploratory data analysis going in different dire
 ## Table of contents
 
 1.1 [Frequency distribution](1_1_frequency_distribution.ipynb/)
+
+1.2 [Measures of location](1_2_measures_of_location.ipynb)
+
+1.3 [Data skewness](1_3_data_skewness.ipynb/)
