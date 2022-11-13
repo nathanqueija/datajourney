@@ -6,7 +6,9 @@ In this folder, you'll find my exploratory data analysis going in different dire
 
 ## Table of contents
 
-- 1.1 [Frequency distribution](1_1_frequency_distribution.ipynb/)
+- 1.1 [Frequency distribution](./1_1_0_frequency_distribution.ipynb)
+
+  - 1.1.1 [Histogram bins: how many?](./1_1_1_histogram_bins.ipynb)
 
 - 1.2 [Measures of location](./1_2_0_measures_of_location.ipynb)
 
