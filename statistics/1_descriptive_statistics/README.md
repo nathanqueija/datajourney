@@ -21,3 +21,5 @@ In this folder, you'll find my exploratory data analysis going in different dire
 - 1.5 [Population and sample](./1_5_population_and_sample.ipynb)
 
 - 1.6 [Standardization: Z-score](./1_6_0_standardization_z_score.ipynb)
+
+- 1.7 [Outliers](./1_7_0_outliers.ipynb)
