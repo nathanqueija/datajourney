@@ -13,3 +13,5 @@ In this folder, you'll find my exploratory data analysis going in different dire
 - 1.3 [Data skewness](1_3_data_skewness.ipynb/)
 
 - 1.4 [Measures of spread](./1_4_measures_of_spread.ipynb)
+
+- 1.5 [Population and sample](./1_5_population_and_sample.ipynb)
