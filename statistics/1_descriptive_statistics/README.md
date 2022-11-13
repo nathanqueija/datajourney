@@ -25,3 +25,5 @@ In this folder, you'll find my exploratory data analysis going in different dire
 - 1.7 [Outliers](./1_7_0_outliers.ipynb)
 
 - 1.8 [Data distributions](./1_8_0_data_distributions.ipynb)
+
+- 1.9 [Feature normalization: min-max](./1_9_0_normalization_minmax.ipynb)
