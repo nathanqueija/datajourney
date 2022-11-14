@@ -11,3 +11,4 @@
 - 2.1 [Probability: a gentle introduction](./2_1_0_probability_intro.ipynb)
 - 2.2 [Counting and probability](./2_2_0_counting_and_probability.ipynb)
   - 2.2.1 [Permutations](./2_2_1_permutations.ipynb)
+  - 2.2.2 [Combinations](./2_2_2_combinations.ipynb)
